@@ -1,7 +1,7 @@
 ANSIColor.pm
 ChangeLog
-MANIFEST
 Makefile.PL
+MANIFEST
+META.yml
 README
 test.pl
-META.yml                                 Module meta-data (added by MakeMaker)
