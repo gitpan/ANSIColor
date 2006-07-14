@@ -2,6 +2,10 @@ ANSIColor.pm
 ChangeLog
 Makefile.PL
 MANIFEST
-META.yml
 README
-test.pl
+t/basic.t
+t/pod.t
+tests/ansicolor
+tests/README
+tests/vt100-torture
+META.yml                                 Module meta-data (added by MakeMaker)

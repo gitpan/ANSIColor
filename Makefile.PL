@@ -1,5 +1,5 @@
 # Makefile.PL for Term::ANSIColor module  -*- perl -*-
-# $Id: Makefile.PL,v 1.2 2000/08/06 18:28:47 eagle Exp $
+# $Id: Makefile.PL 27 2000-08-06 18:28:47Z eagle $
 
 use ExtUtils::MakeMaker;
 
