@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                ANSIColor
-version:             2.00
+version:             2.01
 abstract:            Color output using ANSI escape sequences
 license:             perl
 author:              
